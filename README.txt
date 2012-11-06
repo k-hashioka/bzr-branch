@@ -49,3 +49,5 @@ $ bzr log --show-ids
 	message:
 	  start dpush test.
 
+$ bzr dpush git+ssh://git@github.com/k-hashioka/bzr-branch.git,branch=master --remember
+
